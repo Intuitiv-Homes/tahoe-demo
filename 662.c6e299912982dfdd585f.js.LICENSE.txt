@@ -12,13 +12,6 @@
  * Released under the MIT License
  */
 
-/*!
- * chartjs-plugin-datalabels v2.2.0
- * https://chartjs-plugin-datalabels.netlify.app
- * (c) 2017-2022 chartjs-plugin-datalabels contributors
- * Released under the MIT license
- */
-
 /*! For license information please see cr-com-lib.js.LICENSE.txt */
 
 /*! js-cookie v3.0.5 | MIT */
